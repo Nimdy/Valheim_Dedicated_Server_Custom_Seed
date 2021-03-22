@@ -1,6 +1,5 @@
 
-https://www.youtube.com/watch?v=O2QckczF7gM
-
+[![Thumbnail](https://img.youtube.com/vi/O2QckczF7gM/0.jpg)](https://www.youtube.com/watch?v=O2QckczF7gM)
 
 Download CustomSeed.dll
 
